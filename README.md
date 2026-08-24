@@ -1,9 +1,7 @@
 ## Olá, eu sou o Caio 👋
 
-Estudante de Engenharia de Software na FIAP, atuando com
-vendas no mercado financeiro e migrando para a área técnica.
-
-🎯 Meu foco de estudo: **Dados e Governança de IA**
+Estudante de Engenharia de Software na FIAP, 
+com interesse amplo em tecnologia — de desenvolvimento a dados e infraestrutura".
 
 🌱 Aprendendo agora: Python, SQL e Git
 
